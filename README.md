@@ -22,9 +22,8 @@
 
 Dice Realms draws direct inspiration from *Ganz Schön Clever* (That’s Pretty Clever) by Wolfgang Warsch, capturing its essence while adding unique realm-themed visuals, rule twists, and special abilities.
 
-## 📷 Screenshots
+## ▶️ How to Play
 
-Coming soon...
+To launch the game, run the following Java class:
 
-## 📦 Project Structure
-
+\src\main\java\game\gui\GUIGameController.java
